@@ -32,8 +32,11 @@ public class DataTypes {
         boolean myBool= true; // size 1 byte , default  false
         System.out.println("Bool: "+hamoda);
 
-
+/*
+hello from day 2 branch.
+notel master branch does not know about me .
+ */
 
     }
-    static boolean hamoda;
+    static boolean hamoda; // default false
 }
