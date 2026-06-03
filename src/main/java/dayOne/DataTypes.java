@@ -38,5 +38,5 @@ notel master branch does not know about me .
  */
 
     }
-    static boolean hamoda;
+    static boolean hamoda; // default false
 }
